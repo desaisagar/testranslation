@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="en" datatype="plaintext" original="" date=" " product-name=" ">
+		<header/>
+    <body>
+      <trans-unit id="english" approved="no">
+				<source>English</source>
+				<target>English</target>
+			</trans-unit>
+			<trans-unit id="german" approved="no">
+				<source>German</source>
+				<target>German</target>
+			</trans-unit>
+    </body>
+  	</file>
+</xliff>
