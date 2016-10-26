@@ -1,2 +1,0 @@
-# testranslation
-Translation repository
